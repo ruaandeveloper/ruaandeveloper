@@ -10,8 +10,6 @@ Rhuan Gabriel, 17, Natal! 👾
 <br>
 `❤️` In love with **Web Development**
 
-<img align="center" href="https://ruandeveloper.com.br" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruaandeveloper&layout=compact&theme=transparent" alt="My Github Stats">
-
 ## - 🧠 Technologies and knowledge
 
 [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
