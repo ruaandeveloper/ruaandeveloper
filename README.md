@@ -1,31 +1,21 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+### Olá 👋
 
-<h1>🙋‍♂️ Hello world!</h1>
+Olá, me chamo Rhuan Gabriel, mais conhecido como "ruantracking". Atualmente trabalho com desenvolvimento de software, versátil, porém com foco atual em back-end. Já trabalhei em diversos projetos com áreas diferentes como devOps, back-end e front-end. Conto com quatro anos de experiência em programação e desenvolvimento. E, estou bem equipado para auxiliar no desenvolvimento de projetos e na solução de problemas. Sou paciente e compreensivo, especialmente ao lidar com pessoas que podem não ter conhecimento de tecnologia.
 
-Rhuan Gabriel, 17, Natal! 👾
+Tenho experiencia com liderança de equipe, e gestão de projeto. Sou bem flexível, e posso lidar com diferentes tipos de situações, dentro e fora do código. Meu real objetivo é transformar ideias em soluções, usando código.
 
-> Back-End Developer with experience in their frameworks and familiar with agile methodologies.
+Entre em contato comigo! contatoruazinoficial@gmail.com
 
-`📚` Software Engeneering
-<br>
-`❤️` In love with **Web Development**
+"A única maneira de fazer algo excelente é amar o que você faz. Se você ainda não encontrou, continue procurando. Não se acomode.", Steve jobs
 
-<img align="center" href="https://ruandeveloper.com.br" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruaandeveloper&layout=compact&theme=transparent" alt="My Github Stats">
+<p align="center" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,ts,jenkins,jest,linux,lua,mysql,nestjs,mongodb,nextjs,nginx,nodejs,postgres,prisma,react,redis,sass,tailwind,vscode,express,vite,redux,vim,graphql,html,bootstrap,apollo,electron,threejs,c" width="65%"/>
+  </a>
+</p>
 
-## - 🧠 Technologies and knowledge
-
-[![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/docs/)
-[![](https://skillicons.dev/icons?i=bun)](https://bun.sh/docs)
-[![](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/docs/)
-[![](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/guide/)
-[![](https://skillicons.dev/icons?i=react)](https://reactjs.org/docs/getting-started.html)
-[![](https://skillicons.dev/icons?i=svelte)](https://svelte.dev/)
-[![](https://skillicons.dev/icons?i=next)](https://nextjs.org/docs)
-[![](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/docs)
-[![](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/docs)
-[![](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/documentation)
-[![](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/docs/)
-[![](https://skillicons.dev/icons?i=mysql)](https://dev.mysql.com/doc/)
-[![](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/#/docs/main/stable/general/welcome)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vitest,webpack" width="7.5%"/>
+  </a>
+</p>
